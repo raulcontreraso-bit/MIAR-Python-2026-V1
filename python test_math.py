@@ -12,6 +12,6 @@ df = pd.DataFrame(data)
 # Calculate the average score using NumPy
 average = np.mean(df['Test_Score'])
 
-print("--- MIAR Data Analysis ---")
+print("--- MIAR Data Analysis ---+++++")
 print(df)
 print(f"\nThe average test score is: {average}")
