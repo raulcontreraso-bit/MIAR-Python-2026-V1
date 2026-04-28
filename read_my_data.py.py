@@ -1,8 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
-# In[1]:
-
 
 import pandas as pd
 
@@ -12,8 +7,6 @@ df = pd.read_excel('grades.xlsx')
 # This shows us the first few rows to make sure it worked
 print("--- Data Loaded Successfully ---")
 print(df.head())
-# In[ ]:
-# In[ ]:
 
 
 
