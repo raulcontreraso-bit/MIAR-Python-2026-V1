@@ -12,14 +12,7 @@ df = pd.read_excel('grades.xlsx')
 # This shows us the first few rows to make sure it worked
 print("--- Data Loaded Successfully ---")
 print(df.head())
-
-
 # In[ ]:
-
-
-
-
-
 # In[ ]:
 
 
